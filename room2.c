@@ -6,7 +6,12 @@
 
 int main(void)
 {
-
+	int a=4;
+	int b=0;
+           
+	while (a != b)
+	{
 	printf("this is room2 in California\n");
-	printf("Try to open and room from 4 rooms to find your gift\n");
+	printf("Try to open a room from 4 rooms to find your gift\n");
+	}
 }
