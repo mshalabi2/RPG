@@ -13,5 +13,7 @@ int main(void)
 	{
 	printf("this is room2 in California\n");
 	printf("Try to open a room from 4 rooms to find your gift\n");
+	printf("try again \n");
 	}
+
 }
